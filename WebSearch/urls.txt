@@ -1,0 +1,74 @@
+# EOF_Alfred_WebSearch
+Mac's Alfred Web Search Urls
+
+https://developer.android.com/reference/classes.html#q={query}
+Search AndroidAPI for '{query}'
+android
+
+https://appadvice.com/appnn
+Open AppAdvice
+app_appadvice
+
+http://appsfire.com/
+Open AppsFire
+app_appsfire
+
+https://appadvice.com/appnn
+Open AppAdvice
+app_appadvice
+
+https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&ch=&tn=baiduerr&bar=&wd={query}
+Search Baidu for '{query}'
+baidu
+
+https://github.com/search?utf8=%E2%9C%93&q={query}
+Search GitHub for '{query}'
+github
+
+http://www.jianshu.com/search?utf8=%E2%9C%93&q={query}
+Search 简书 for '{query}'
+jianshu
+
+http://search.360buy.com/Search?keyword={query}&enc=utf-8&area=15
+Search 京东 for '{query}'
+jingdong
+
+https://www.engadget.com/
+Open Engadget
+keji_engadget
+
+https://www.theverge.com/
+Open TheVerge
+keji_theverge
+
+https://versus.com/en
+Open Versus
+keji_versus
+
+http://linux.vbird.org/aboutmysite.php
+Open 鸟哥的Linux私房菜
+linux_niaoge
+
+http://www.stackoverflow.com/search?q={query}
+Search Stackoverflow for '{query}'
+sf
+
+http://s.taobao.com/search?oe=utf-8&f=8&q={query}
+Search 淘宝 for '{query}'
+taobao
+
+https://ct.ctrip.com/crptravel/
+Open 携程商旅
+xiecheng
+
+https://www.youtube.com/
+Open YouTube
+youtube
+
+https://www.zhihu.com/search?type=content&q={query}
+Search 知乎 for '{query}'
+zhihu
+
+https://www.zhihu.com/
+Open 知乎
+zhihu
