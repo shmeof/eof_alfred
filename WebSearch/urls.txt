@@ -72,3 +72,7 @@ zhihu
 https://www.zhihu.com/
 Open 知乎
 zhihu
+
+https://developer.android.com/studio/index.html
+Android Studio 官网
+androidstudio
