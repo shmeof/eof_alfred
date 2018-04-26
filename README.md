@@ -55,3 +55,6 @@ end alfred_script
 [Alfred集成Iterm2](https://blog.csdn.net/endlu/article/details/52955554)
 
 [iTerm documentation-scripting](http://www.iterm2.com/documentation-scripting.html)
+
+[custom-iterm-applescripts-for-alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)
+
