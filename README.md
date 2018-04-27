@@ -4,7 +4,7 @@
 
 步骤1：打开Alfred -> Preperence -> Features -> Terminal / Shell
 
-步骤2：Application选择“Custom”，下方的脚本替换为
+步骤2：Application选择“Custom”，脚本替换为
 
 ```
 on alfred_script(q)  
