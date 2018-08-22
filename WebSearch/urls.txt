@@ -9,7 +9,7 @@ https://appadvice.com/appnn
 Open AppAdvice
 app_appadvice
 
-http://appsfire.com/
+http://appsfire.com
 Open AppsFire
 app_appsfire
 
